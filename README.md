@@ -1,4 +1,11 @@
-|![Yacob](profpic.jpg)|
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+|![Yacob] |(profpic.jpg)|
 
 |Yacob Shogar|
 

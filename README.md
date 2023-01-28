@@ -1,4 +1,4 @@
-![alt text](prof pic.jpg)
+![Yacob](profpic.jpg)
 
 # Cardiction Auto Detailing
 ## [Analytics Portfulio](Carsdiction.com)
